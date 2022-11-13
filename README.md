@@ -1,2 +1,1 @@
-# classification
-In this I am applying classification techniques
+# Machine learning algorithms on classification problems
